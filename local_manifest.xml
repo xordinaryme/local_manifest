@@ -6,5 +6,7 @@
 	<project path="vendor/xiaomi/fog" name="ordinary-topaz-lab/proprietary_vendor_xiaomi_topaz" remote="github" revision="13" />
 	<project path="hardware/xiaomi" name="ordinary-topaz-lab/hardware_xiaomi" remote="github" revision="13" />
 	<project path="kernel/xiaomi/fog" name="ordinary-topaz-lab/android_device_xiaomi_topaz-kernel" remote="github" revision="13" />
+	<!-- Sync HALs -->
+	<project path="hardware/qcom-caf/sm6225" name="ordinary-topaz-lab/hardware_qcom-caf_sm6225" remote="github" revision="main" />
           
 </manifest>
