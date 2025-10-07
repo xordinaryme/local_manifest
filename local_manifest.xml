@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+	<!-- Sync trees -->
+	<project path="device/xiaomi/fog" name="ordinary-topaz-lab/android_device_xiaomi_topaz" remote="github" revision="13" />
+	<project path="vendor/xiaomi/fog" name="ordinary-topaz-lab/proprietary_vendor_xiaomi_topaz" remote="github" revision="13" />
+	<project path="hardware/xiaomi" name="ordinary-topaz-lab/hardware_xiaomi" remote="github" revision="13" />
+	<project path="kernel/xiaomi/fog" name="ordinary-topaz-lab/android_device_xiaomi_topaz-kernel" remote="github" revision="13" />
+          
+</manifest>
