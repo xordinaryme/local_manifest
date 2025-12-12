@@ -4,7 +4,7 @@
 	<!-- Sync trees -->
 	<project path="device/xiaomi/tapas" name="xordinaryme/android_device_xiaomi_tapas" remote="github" revision="lineage-20" />
 	<project path="vendor/xiaomi/tapas" name="xordinaryme/proprietary_vendor_xiaomi_tapas" remote="github" revision="13" />
-	<!--project path="hardware/xiaomi" name="ordinary-topaz-lab/android_hardware_xiaomi" remote="github" revision="lineage-20" /-->
+	<project path="hardware/xiaomi" name="crdroidandroid/android_hardware_xiaomi" remote="github" revision="13.0" />
 	<project path="device/xiaomi/tapas-kernel" name="xordinaryme/android_device_xiaomi_tapas-kernel" remote="github" revision="13" />
 	<!-- Kernel trees -->
 	<!-- project path="kernel/xiaomi/tapas" name="topnotchfreaks/kernel_msm-5.15" remote="github" revision="codelinaro" /-->
