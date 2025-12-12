@@ -9,6 +9,6 @@
 	<!-- Kernel trees -->
 	<!-- project path="kernel/xiaomi/tapas" name="topnotchfreaks/kernel_msm-5.15" remote="github" revision="codelinaro" /-->
 	<!-- Sync HALs -->
-	<project path="hardware/qcom-caf/sm6225" name="topnotchfreaks/hardware_qcom-caf_sm6225" remote="github" revision="13" />
+	<project path="hardware/qcom-caf/sm6225" name="topnotchfreaks/hardware_qcom-caf_sm6225" remote="github" revision="lineage-20.0" />
           
 </manifest>
